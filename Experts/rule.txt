@@ -1,0 +1,40 @@
+IF node number is 3
+THEN shape is triangle
+
+IF node number is 4
+THEN shape is quadrilateral
+
+IF node number is 5
+THEN shape is pentagon
+
+IF shape is triangle
+AND equal sides number is 2
+THEN shape is isosceles triangle
+
+IF shape is triangle
+AND equal sides number is 3
+THEN shape is equilateral triangle
+
+IF shape is triangle
+AND right angle number is 1
+THEN shape is right triangle
+
+IF shape is quadrilateral
+AND equal sides number is 4
+THEN shape is diamond
+
+IF shape is pentagon
+AND equal sides number is 5
+THEN shape is regular pentagon
+
+IF shape is quadrilateral
+AND right angle number is 4
+THEN shape is rectangle
+
+IF shape is rectangle
+AND equal sides number is 4
+THEN shape is square
+
+IF shape is diamond
+AND right angle number is 4
+THEN shape is square
